@@ -1,0 +1,20 @@
+{
+  "name": "bower-pkg",
+  "version": "0.1.0",
+  "authors": [
+    "liangxing <liangxing@ishuqi.com>"
+  ],
+  "dependencies": {
+	"jquery": "~1.10.2"
+  },
+  "description": "this is a bower package demo",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
